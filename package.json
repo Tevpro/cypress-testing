@@ -14,7 +14,7 @@
   "private": true,
   "dependencies": {
     "@angular/common": "~21.0.1",
-    "@angular/core": "~9.1.6",
+    "@angular/core": "~10.2.5",
     "@angular/forms": "~21.0.1",
     "@angular/platform-browser": "~21.0.1",
     "@angular/platform-browser-dynamic": "~21.0.1",
@@ -38,7 +38,7 @@
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^12.11.1",
     "codelyzer": "^5.1.2",
-    "cypress": "^4.11.0",
+    "cypress": "^15.7.0",
     "jasmine-core": "~3.5.0",
     "jasmine-spec-reporter": "~4.2.1",
     "karma": "~6.4.4",
